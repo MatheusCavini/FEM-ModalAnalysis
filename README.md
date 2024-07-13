@@ -11,6 +11,7 @@ The code was developed based on theorical concepts of Finite Elements Methods (F
 ## Usage example
 
 Example on how to use the code provided to solve a modal analysis for the structure below, where 1 is a beam and 2 is a truss.
+
 ![image](https://github.com/user-attachments/assets/40ac5de0-133e-495f-ad95-e7a7efa4070a)
 
 1. Instantiate the nodes that are part of the structure in a list:
